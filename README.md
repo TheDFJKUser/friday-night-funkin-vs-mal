@@ -8,6 +8,11 @@ Friday Night Funkin' but MAL has invaded your game!!!
 * Spin_XP - On the dev team
 * jude - On the dev team
 * EtherNote - Mal Voice Actor
+
+### Special Thanks
+* NonDunePipp - Charted NYPA (We used their chart)
+* muff - Made NYPA
+* Anons - Made vs /v/
 _____________________________________
 
 ## Changes:
